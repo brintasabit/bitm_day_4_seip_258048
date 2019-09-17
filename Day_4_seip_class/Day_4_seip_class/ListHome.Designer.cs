@@ -36,7 +36,7 @@
             // 
             // addButton
             // 
-            this.addButton.Location = new System.Drawing.Point(503, 57);
+            this.addButton.Location = new System.Drawing.Point(555, 127);
             this.addButton.Name = "addButton";
             this.addButton.Size = new System.Drawing.Size(75, 23);
             this.addButton.TabIndex = 0;
@@ -47,7 +47,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(104, 63);
+            this.label1.Location = new System.Drawing.Point(156, 133);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 1;
@@ -55,14 +55,14 @@
             // 
             // addTextBox
             // 
-            this.addTextBox.Location = new System.Drawing.Point(175, 60);
+            this.addTextBox.Location = new System.Drawing.Point(227, 130);
             this.addTextBox.Name = "addTextBox";
             this.addTextBox.Size = new System.Drawing.Size(247, 20);
             this.addTextBox.TabIndex = 2;
             // 
             // add2Button
             // 
-            this.add2Button.Location = new System.Drawing.Point(503, 159);
+            this.add2Button.Location = new System.Drawing.Point(555, 229);
             this.add2Button.Name = "add2Button";
             this.add2Button.Size = new System.Drawing.Size(75, 23);
             this.add2Button.TabIndex = 3;
@@ -80,7 +80,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.addButton);
             this.Name = "ListHome";
-            this.Text = "Form1";
+            this.Text = "List Show";
             this.ResumeLayout(false);
             this.PerformLayout();
 
